@@ -12,3 +12,4 @@ Inhalt
    windows
    linux
    macos
+   api
