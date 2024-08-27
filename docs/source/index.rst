@@ -2,7 +2,7 @@ Willkommen in meinem Wiki
 ===================================
 
 .. note::
-   Dieses Wiki befindet sich in aktiver Entwicklung.
+   This wiki is still in development.
 
 Inhalt
 --------
