@@ -1,2 +1,2 @@
-Anleitungen für macOS
+Guides for macOS
 =====
