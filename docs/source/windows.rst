@@ -1,2 +1,2 @@
-Anleitungen für Windows
+Guides for Windows
 =====
