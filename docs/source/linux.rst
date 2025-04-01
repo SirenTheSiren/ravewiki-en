@@ -1,4 +1,4 @@
-Anleitungen für Linux
+Guides for Linux
 =====
 
 .. toctree::
