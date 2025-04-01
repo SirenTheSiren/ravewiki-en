@@ -1,5 +1,8 @@
 .. title:: Installing dpkg Dependencies
 
+Installing dpkg Dependencies
+----
+
 When installing a .deb package manually with dpkg, missing dependencies may cause errors. To resolve them, use the following commands:
 
 .. code-block:: shell
