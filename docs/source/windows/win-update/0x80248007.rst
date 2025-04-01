@@ -1,0 +1,9 @@
+Fehlercode 0x80248007 beheben
+====
+
+#. Eingebaeaufforderung als Administrator öffnen
+#. ``net stop wuauserv``
+#. ``net stop bits``
+#. ``rd/s/q%windir%\SoftwareDistribution``
+#. ``net start wuauserv``
+#. ``net start bits``

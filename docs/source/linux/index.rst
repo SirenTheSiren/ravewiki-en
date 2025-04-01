@@ -3,4 +3,6 @@ Guides for Linux
 
 .. toctree::
 
-   linux/dpkg-dependencies
+  general/index
+  unifi/index
+

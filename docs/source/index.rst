@@ -4,11 +4,12 @@ Welcome to my Wiki
 .. note::
    This wiki is still in development.
 
-Inhalt
+Contents
 --------
 
 .. toctree::
 
-   windows
-   linux
-   macos
+   windows/index
+   linux/index
+   macos/index
+   misc/index
