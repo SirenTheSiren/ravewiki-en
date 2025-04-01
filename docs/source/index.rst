@@ -1,4 +1,4 @@
-Willkommen in meinem Wiki
+Welcome to my Wiki
 ===================================
 
 .. note::
@@ -12,4 +12,3 @@ Inhalt
    windows
    linux
    macos
-   api
